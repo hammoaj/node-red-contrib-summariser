@@ -4,7 +4,7 @@
   "description": "Node-RED node to summarise data",
   "license": "Apache-2.0",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "4.17.x"
   },
   "repository" : {
         "type":"git",
